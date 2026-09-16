@@ -6,6 +6,11 @@
 # ==========================================
 
 # เขียนโค้ดต่อจากนี้
-quantity = int(input())
+quantity = int(input("กรอกจำนวนสินค้า : "))
+price = quantity*20
+    if quantity >= 5 :
+          total_price = price -10
+    else :
+         tptal_price = price
 
 
