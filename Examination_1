@@ -6,5 +6,5 @@
 
 # เขียนโค้ดต่อจากนี้
 name = ("input("ชื่่อผู้ใช้งาน: " )
-print ( " hello " name ")
+print ( " hello (" name ")
 
